@@ -1,0 +1,10 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar arquivos do Streamlit
+.streamlit/
+__pycache__/
+
+utils copy.py
+app copy.py
+app copy 2.py
